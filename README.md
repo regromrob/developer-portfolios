@@ -330,6 +330,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
 - [Rajan Bhattarai](https://cdrrazan.com)
+- [Regina Robinson](https://regina-robinson.netlify.app/)
 - [Rick Hanlon](https://rickhanlonii.github.io/)
 - [Riley J. Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
@@ -341,6 +342,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
+
 
 ## S
 
